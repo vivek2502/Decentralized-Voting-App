@@ -1,0 +1,68 @@
+body {
+  color: rgb(77, 47, 15);
+  background: #32ef71; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f17237,
+    #ffffff,
+    #0ed14f
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f17237,#ffffff, #0ed14f);
+}
+
+.main img {
+  margin-right: 1rem;
+  margin-left: 3em;
+  
+  
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h5 {
+  
+  text-align: center;
+  color: #797878;
+  
+  
+}
+i,
+a {
+  color: rgb(146, 106, 63);
+  font-size: 25px;
+  font-style: bold;
+  margin-left: 1rem;
+ 
+  
+}
+
+.club {
+  color: #bd0a0a;
+}
+
+i:hover,
+a:hover {
+  outline: none;
+  color: rgb(248, 133, 1);
+  
+}
+p {
+  font-size: 20px;
+  margin-left: 1.5rem;
+  
+}
+li{
+  font-size: small;
+}
+.description{
+  margin-left: 5.5rem ;
+  
+}
+
+.main {
+  font-size: 30px;
+}
+
