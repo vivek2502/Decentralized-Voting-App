@@ -15,7 +15,7 @@
     "gh-pages": "^4.0.0",
     "typescript": "3.3.3"
   },
-  "homepage":"http://vivek2502/github.io/Decentralized-Voting-App",
+  "homepage":".",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
